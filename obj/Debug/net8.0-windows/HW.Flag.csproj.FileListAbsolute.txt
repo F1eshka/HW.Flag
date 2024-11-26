@@ -1,0 +1,16 @@
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\bin\Debug\net8.0-windows\HW.Flag.exe
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\bin\Debug\net8.0-windows\HW.Flag.deps.json
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\bin\Debug\net8.0-windows\HW.Flag.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\bin\Debug\net8.0-windows\HW.Flag.dll
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\bin\Debug\net8.0-windows\HW.Flag.pdb
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\HW.Flag.Form1.resources
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\HW.Flag.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\HW.Flag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\HW.Flag.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\HW.Flag.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\HW.Flag.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\HW.Flag.dll
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\refint\HW.Flag.dll
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\HW.Flag.pdb
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\HW.Flag.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Flag\HW.Flag\obj\Debug\net8.0-windows\ref\HW.Flag.dll
